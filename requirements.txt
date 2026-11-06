@@ -1,0 +1,11 @@
+# Voice Assistant Requirements - Python 3.14 Compatible!
+# No PyAudio needed! Uses sounddevice instead
+
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+wikipedia==1.4.0
+sounddevice
+scipy
+
+# OLD - No longer needed:
+# PyAudio==0.2.14
